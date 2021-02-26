@@ -11,7 +11,7 @@ request.) To make a copy of the template, click the **Use this template** button
 and add it to your GitHub account. Then, clone your repository to your computer:
 
 ```
-git clone https://github.com/<myaccount>/warmup-py.git
+git clone https://github.com/<myaccount>/learnmolsim.git
 cd learnmolsim
 ```
 
